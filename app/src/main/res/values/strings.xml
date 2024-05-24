@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="input_value">Input Value</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="go">Go</string>
+    <string name="finish">Finish</string>
+</resources>
